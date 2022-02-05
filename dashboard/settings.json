@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/little-bearz",
+      "domain": "https://www.bearzmusic.tk"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://www.bearzmusic.tk/callback",
+        "clientID": "919446106646138890",
+        "secret": "REPLIT VARIABLE TO HIDE IT!!"
+    }
+  }
